@@ -1,27 +1,28 @@
 # 👋 Hi, I'm Sahil Bharne
 
-🎓 Student exploring **Applied Mathematics, Signal Processing, and Computer Science**  
-💻 Interested in **C programming, Python**, and algorithmic problem solving  
-🌊 Currently studying **Wave Equations & Fourier Series** (Vibrating String Problems)  
-🧮 Learning **Linear Algebra** (Diagonalization, Cayley-Hamilton Theorem, Basis Change, Symmetric Matrices)  
-🧘‍♂️ Exploring the benefits of **Yoga Asanas** (Tadasana, Vrikshasana, Garudasana, Sarvangasana, Trikonasana, Paschimottanasana, Shashankasana, Vajrasana)
+🎓 B.Tech Student at **MNNIT Allahabad**  
+💻 Interested in **Web Development, Robotics, Problem Solving**
+🌊 Currently studying **MERN stack, AI-powered web applications and Machine Learning**  
 
 ---
 
 ## 🛠 Skills & Technologies
 
-- **Languages:** C, Python (learning)
-- **Math & Theory:** PDEs, Fourier Series, Linear Algebra  
-- **Tools:** Git, GitHub, Overleaf, LaTeX, VS Code  
-- **Other Interests:** Yoga, Resume writing, Teaching concise notes  
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript, React-Router, Next. js
+- **Backend:** Node.js, Express.js, REST APIs, MongoDB  
+- **Tools:** Git, GitHub, Postman, Cloudinary, VS Code, Vercel, Render, Figma, Canva, Blender  
+- **Others:** Arduino, Python  
 
 ---
 
 ## 📂 Projects
 
-- 🎵 **Spotify Clone (in progress):** Learning GitHub collaboration and pushing commits
-  
----
+- 🖼️ **ArtHive**: Personal website project showcasing creativity and web development skills  
+- 🎵 **Spotify Clone**: Music web app experiment for learning JavaScript and APIs  
+- 👥 **FanVault**: Platform concept for managing fan content and communities  
+- 🔗 **Bitlinks**: URL shortener with simple link management  
+- ☕ **Get Me a Chai**: Includes Payment Integration  
+
 
 ## 📊 GitHub Stats
 
