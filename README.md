@@ -25,22 +25,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilbharne&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbharne&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilbharne&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
-</p>
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilbharne&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbharne&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=sahilbharne&theme=tokyonight&hide_border=true)  
 
 ---
+
 
 ## 📫 Connect  
 
